@@ -76,6 +76,7 @@ input{
     width: 50%;
     margin-bottom: 10px;
     margin-left: 0.5rem;
+    padding: 8px 8px;
 }
 .toast {
     top: 20px; 
